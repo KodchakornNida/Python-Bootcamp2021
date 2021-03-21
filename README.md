@@ -5,7 +5,7 @@ GUI
 - GUI Calculate VAT
 - GUI Web scape Wikipedia & Autonomous Translate & Retieve data to Excel
 - Generate Packgage packlangame to pypi
-- GUI Note in classroom  to Excel
+- GUI take note in classroom  to Excel
 
 Web scraping
 - Check Price stock & send line application
